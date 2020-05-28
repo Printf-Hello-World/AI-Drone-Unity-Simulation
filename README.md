@@ -3,6 +3,8 @@ Training a drone to fly towards a target using Unity/ML-Agents/Reinforcement Lea
 
 Credit to simeonradivoev for his drone model with PID, you can check out his repo here: https://github.com/simeonradivoev/Quadcopter-Controller 
 
+I trained an agent to learn to fly this drone model, essentially substituting it as a human pilot. 
+
 Unity Version: 2018.4.15f1  
 ML-Agents: 0.13.1
 
