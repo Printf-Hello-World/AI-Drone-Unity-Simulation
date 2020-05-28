@@ -9,6 +9,8 @@ ML-Agents: 0.13.1
 Drone learns to fly and track moving targets. 
 ![](droneimage.PNG)
 
+Check out the video demonstration here: https://youtu.be/E04FuH6EL8M
+
 ### *Agent Observations: * 
 Throttle, pitch, roll, yaw, current distance to target, direction vector to the target, local posiiton of drone, drone velocity
 
