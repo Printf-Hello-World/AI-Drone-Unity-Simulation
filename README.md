@@ -7,6 +7,7 @@ Unity Version: 2018.4.15f1
 ML-Agents: 0.13.1
 
 Drone learns to fly and track moving targets. 
+![](droneimage.PNG)
 
 ### *Agent Observations: * 
 Throttle, pitch, roll, yaw, current distance to target, direction vector to the target, local posiiton of drone, drone velocity
